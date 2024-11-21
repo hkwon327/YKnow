@@ -2,7 +2,6 @@
 2024 UCSB Ideathon
 
 Details can be found following notion:
-[notion]([urlhttps://www.notion.so/Ideaton-YKnow-141eda3a437b80ca8f78d11a52f013ef?pvs=4](https://www.notion.so/Ideaton-YKnow-141eda3a437b80ca8f78d11a52f013ef?pvs=4))
 
-
+https://www.notion.so/Ideaton-YKnow-141eda3a437b80ca8f78d11a52f013ef?pvs=4
 
