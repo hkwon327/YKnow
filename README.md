@@ -1,5 +1,5 @@
 # YKnow
-2024 UCSB Ideathon
+**2024 UCSB Ideathon**
 
 Details can be found following notion:
 
