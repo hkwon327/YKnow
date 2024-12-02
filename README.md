@@ -1,5 +1,5 @@
 # YKnow
-**2024 UCSB Ideathon**  
+**2024 UCSB Ideathon (Nov.16-20)**  
 <img width="1027" alt="Screenshot 2024-12-02 at 2 25 29 PM" src="https://github.com/user-attachments/assets/196b37f1-b6fa-4a69-b215-b5168fa91a83">
 
 ## Details  
